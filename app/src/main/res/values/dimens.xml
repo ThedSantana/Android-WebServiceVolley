@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="titulo">17dp</dimen>
+    <dimen name="classificacao">15dip</dimen>
+    <dimen name="genero">13dip</dimen>
+    <dimen name="ano">12dip</dimen>
+    <dimen name="divisor">1dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
